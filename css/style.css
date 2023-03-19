@@ -1,6 +1,7 @@
 
-        body {
-            background-color: #B3E5BE;
+          body {
+           
+            background-color: aqua;
         }
         hr {
             border-color: grey;
@@ -8,7 +9,3 @@
             width: 10%;
             border-width: 5px;
         }
-        h1{ 
-            background-color: red;
-        }
-   
